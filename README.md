@@ -1,23 +1,21 @@
-Simple Calculator with Tkinter /n
-This is a simple calculator program built using the Tkinter library in Python. It allows users to perform basic arithmetic operations (+, -, *, /) and includes buttons for numbers, parentheses, decimals, an equal sign for evaluation, and a clear button to reset the calculation field.
-
-Features
-Basic arithmetic operations (+, -, *, /)
-Support for parentheses
-Decimal point button
-Clear button to reset the calculation field
-User-friendly interface with buttons
-Requirements
-Python 3.x (https://www.python.org/downloads/)
-Tkinter library (usually included by default in Python installations)
+# Simple Calculator with Tkinter
+ __This is a simple calculator program built using the Tkinter library in Python. It allows users to perform basic arithmetic operations (+, -, *, /) and includes buttons for numbers, parentheses, decimals, an equal sign for evaluation, and a clear button to reset the calculation field.__ 
+__
+## Features
+Basic arithmetic operations (+, -, *, /) <br/>
+Decimal point button <br/>
+Clear button to reset the calculation field <br/>
+User-friendly interface with buttons <br/>
+## Requirements
+Python 3.x (https://www.python.org/downloads/)<br/>
+Tkinter library (usually included by default in Python installations)<br/>
 Running the program
 Save the code as calculator.py (or any preferred name).
 Open a terminal or command prompt and navigate to the directory where you saved the file.
 Run the program using the following command:
-Bash
-python calculator.py
-Use code with caution.
-content_copy
+
+```python calculator.py```
+
 This will launch the calculator window.
 
 How to use the calculator
