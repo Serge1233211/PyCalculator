@@ -1,4 +1,4 @@
-Simple Calculator with Tkinter
+Simple Calculator with Tkinter /n
 This is a simple calculator program built using the Tkinter library in Python. It allows users to perform basic arithmetic operations (+, -, *, /) and includes buttons for numbers, parentheses, decimals, an equal sign for evaluation, and a clear button to reset the calculation field.
 
 Features
